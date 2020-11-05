@@ -1,0 +1,10 @@
+
+   
+    example-card {
+        max-width: 40px;
+        }
+   
+    .example-header-image {
+    background-image: url('/assets/batmenton-racket.jpeg');
+    background-size: cover;
+    }

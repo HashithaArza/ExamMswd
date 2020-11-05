@@ -1,0 +1,9 @@
+
+    example-card {
+        max-width: 40px;
+        }
+   
+    .example-header-image {
+    background-image: url('/assets/hockey-stick.jpeg');
+    background-size: cover;
+    }
